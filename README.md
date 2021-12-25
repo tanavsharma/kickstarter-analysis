@@ -57,8 +57,10 @@ It was a real challenge setting up the formula for **Deliverable 2.** It was qui
 There are quite a few common limitations to the dataset. **Reliability** of this dataset plays a huge role, we are not really sure if this is reliable, it may have missing data, or data inputed incorrectly due to human error. Another gap I see in this dataset comes from the person running the campaigns, for example, were there different people running different campagings? Some people may be able to run a campagin more successfully while others may not have the experience or skills to run an effective campaign. 
 
 ## Extra Tables and Charts
-
+The following table and chart represent data based on goals with no filters.
 <img src="/resources/Outcomes_vs_Goals(No_Filter).png">
+
+The following chart shows the success, failed and cancle rate in percentage for each month.
 <img src="/resources/PercentageD1.png">
 
 
