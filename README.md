@@ -5,8 +5,8 @@ Louise’s play Fever came close to its fundraising goal in a short amount of ti
 
 ## Analysis and Challenges
 
-### <p align="center">**Campaign Outcomes Based On Launch Date**</p>
-<img src="/resources/CampaginOutcomes-Data.png" alt="Launch Date Outcomes" width="400">
+### <p align="center">**Campaign Outcomes Based On Launch Date**</p> 
+<img src="/resources/CampaginOutcomes-Data.png" alt="Launch Date Outcomes" width="400"> <img src="/resources/PercentageSuccess.png" alt="Launch Date Outcomes" width="400">
 
 
 After analyzing the data and creating reports for campaign outcomes based on launch date, we can see that for the months from **Feburary** to **June** had the most successful campaigns. This tells us, that we will see a higher success rate and get a better result for running campagins during this months. 
@@ -14,7 +14,6 @@ After analyzing the data and creating reports for campaign outcomes based on lau
 
 However, you may notice that although **June** had a high number of successfull campaigns, it also had a high number of failed campaigns as well. Infact June was the **third** highest month of failed campaigns. To help us better understand our data visually, I decided to create a line chart displaying the percentage of successful, failed and cancled campaigns. See Below. 
 
-<img src="/resources/PercentageSuccess.png" alt="Launch Date Outcomes" width="400">
 
 
 
@@ -68,8 +67,6 @@ The following chart shows the success, failed and cancle rate in percentage for 
 <img src="/resources/PercentageD1.png">
 
 
-## Testing
-<img src="/resources/CampaginOutcomes-Data.png" alt="Launch Date Outcomes" width="400"> <img src="/resources/CampaginOutcomes-Data.png" alt="Launch Date Outcomes" width="400">
 
 
 
