@@ -6,17 +6,23 @@ Louise’s play Fever came close to its fundraising goal in a short amount of ti
 ## Analysis and Challenges
 
 ### <p align="center">**Campaign Outcomes Based On Launch Date**</p> 
-<img src="/resources/CampaginOutcomes-Data.png" alt="Launch Date Outcomes" width="400"> <img src="/resources/PercentageSuccess.png" alt="Launch Date Outcomes" width="400">
 
+<p align="center">
+<img src="/resources/CampaginOutcomes-Data.png" alt="Launch Date Outcomes" width="400"> 
+</p>
 
-After analyzing the data and creating reports for campaign outcomes based on launch date, we can see that for the months from **Feburary** to **June** had the most successful campaigns. This tells us, that we will see a higher success rate and get a better result for running campagins during this months. 
+<div style="text-align: justify"> 
+After analyzing the data and creating reports for campaign outcomes based on launch date, we can see that for the months from <b>Feburary</b> to <b>June</b> had the most successful campaigns. This tells us, that we will see a higher success rate and get a better result for running campagins during this months. 
+<br><br>  
+  However, you may notice that although <b>June</b> had a high number of successfull campaigns, it also had a high number of failed campaigns as well. Infact June was the <b>third</b> highest month of failed campaigns. To help us better understand our data visually, I decided to create a line chart displaying the percentage of successful, failed and cancled campaigns. See Below.
+  <br><br>
+</div>
 
+<p align="center">
+<img src="/resources/PercentageSuccess.png" alt="Launch Date Outcomes" width="400" align="center">
+</p>
 
-However, you may notice that although **June** had a high number of successfull campaigns, it also had a high number of failed campaigns as well. Infact June was the **third** highest month of failed campaigns. To help us better understand our data visually, I decided to create a line chart displaying the percentage of successful, failed and cancled campaigns. See Below. 
-
-
-
-
+<br></br>
 As you can see, we can easily point out that months **Feburary** to **May** were the most successfull for campaign runs, floating between **57%-61%**. June however, drops to about **54%**. Which could be significant if the campaign has a huge budget and has **high impact.** 
 
 Another important insight we can see is that from months **June** to **September** as the success rate for campaign run decresses the percentage of failed campaigns increases.
