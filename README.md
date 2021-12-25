@@ -7,8 +7,8 @@ Louise’s play Fever came close to its fundraising goal in a short amount of ti
 
 ### <p align="center">**Campaign Outcomes Based On Launch Date**</p>
 
-<img align="left" src="/resources/CampaginOutcomes-Data.png" alt="Launch Date Outcomes" width="462" height="400">
-<img align="right" src="/resources/PercentageSuccess.png" alt="Launch Date Outcomes" width="462" height="400">
+<img align="left" src="/resources/CampaginOutcomes-Data.png" alt="Launch Date Outcomes" width="580" height="450">
+<img align="left" src="/resources/PercentageSuccess.png" alt="Launch Date Outcomes" width="580" height="370">
 
 After analyzing the data and creating reports for campaign outcomes based on launch date, we can see that for the months from **Feburary** to **June** had the most successful campaigns. This tells us, that we will see a higher success rate and get a better result for running campagins during this months. 
 
