@@ -68,8 +68,8 @@ The following chart shows the success, failed and cancle rate in percentage for 
 <img src="/resources/PercentageD1.png">
 
 
-
-
+## Testing
+<img src="/resources/CampaginOutcomes-Data.png" alt="Launch Date Outcomes" width="400"> <img src="/resources/CampaginOutcomes-Data.png" alt="Launch Date Outcomes" width="400">
 
 
 
