@@ -5,7 +5,7 @@ Louise’s play Fever came close to its fundraising goal in a short amount of ti
 
 ## Analysis and Challenges
 
-### <p>**Campaign Outcomes Based On Launch Date**</p>
+### <p align="center">**Campaign Outcomes Based On Launch Date**</p>
 <img src="/resources/CampaginOutcomes-Data.png" alt="Launch Date Outcomes" width="400">
 
 
