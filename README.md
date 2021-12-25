@@ -50,8 +50,8 @@ It was a real challenge setting up the formula for **Deliverable 2.** It was qui
 
 ## Results
 ### Conclusion for Outcomes based on Launch Date
-- High budget and high impact campaigns should be run through **Feburary** to **May**, whereas low impact, low budget, low risk campagins, can be run throughout the rest of the months.
-- 
+- High budget and high impact campaigns should be run through **Feburary** to **May.** 
+- Low impact, low budget and/or low risk campagins, should be run throughout the rest of the months.
 
 ### Conclusion for Outcomes based on Goals
 - Campaign goals should be aimed to be less than or equal to **$1000** or between **$30,000 - $40,000.** If your campaign goal needs to be more than $1000 and less than $30,000, then I would reccomend running multiple low goal campaigns to increase your change of success.
