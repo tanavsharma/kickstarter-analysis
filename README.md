@@ -58,6 +58,9 @@ There are quite a few common limitations to the dataset. **Reliability** of this
 
 ## Extra Tables and Charts
 
+<img src="/resources/Outcomes_vs_Goals(No_Filter).png">
+<img src="/resources/PercentageD1.png">
+
 
 
 
