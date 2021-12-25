@@ -5,7 +5,7 @@ Louise’s play Fever came close to its fundraising goal in a short amount of ti
 
 ## Analysis and Challenges
 
-#### **Campaign Outcomes Based On Launch Date**
+### **Campaign Outcomes Based On Launch Date**
 
 <img align="left" src="/resources/CampaginOutcomes-Data.png" alt="Launch Date Outcomes" width="580" height="440">
 <img align="left" src="/resources/PercentageSuccess.png" alt="Launch Date Outcomes" width="580" height="350">
@@ -21,6 +21,21 @@ Another important insight we can see is that from months **June** to **September
 
 #### **Conculsion**: 
 High budget and high impact campaigns should be run through **Feburary** to **May**, whereas low impact, low budget, low risk campagins, can be run throughout the rest of the months.  
+
+### **Outcomes Based on Goals**
+
+<img src="/resources/Outcomes_vs_Goals.png" alt="Launch Date Outcomes">
+
+The above line chart, viusalizes the percentage of successful and failed outcomes based on the goal amount set. Goal amount is the amount of money that was expected to be raised through the campaign. To make it easier for us to understand, I filtered the chart above to only show us data for campaigns being run under the **"plays"** category. 
+
+
+Looking at the chart, there seems to be a direct relationship between failed and successfull campaign runs. It is clear that the lower the campaign goal the higher the success rate. 
+
+We can see that Over time as the campaign goal increases the success percentage decreases and failed percentage increases. However, there is a decent spike in success rate for campaign goals ranging between **$30,000 - $44,000,** Then dropping to a **13%** success rate. 
+
+#### **Conculsion**: 
+Campaign goals should be aimed to be less than or equal to **$1000** or between **$30,000 - $40,000.** If your campaign goal needs to be more than $1000 and less than $30,000, then I would reccomend running multiple low goal campaigns to increase your change of success. 
+
 
 
 
